@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lekan-rust
-- 👀 I’m interested in Golang, rust language
+- 👀 I’m interested in Golang, surprisingly
 - 🌱 I’m currently learning clean architecture
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me telegram @lekanlekan
